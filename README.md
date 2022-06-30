@@ -1,2 +1,2 @@
 # Java-Script-Projects
- 15 Java Script Projects from Code Addict YT
+ 15 Java Script Projects from Free Code Camp
